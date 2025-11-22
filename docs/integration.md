@@ -1,3 +1,2 @@
 # Integration Guide
-
-Load via CDN or REST.
+Use CDN or REST API.

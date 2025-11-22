@@ -1,3 +1,2 @@
 # Philosophy
-
-Ethical principles of The Arsik Continuum.
+Core ethical principles of The Arsik Continuum.

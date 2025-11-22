@@ -1,3 +1,2 @@
-# API
-
-Endpoint: /wp-json/arsik/v1/ethics
+# API Overview
+See endpoints.md for full list.

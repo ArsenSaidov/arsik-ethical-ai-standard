@@ -1,4 +1,4 @@
-window.ArsikEthicalAI={
+window.ArsikEthicalAI = {
   "source_alignment": true,
   "non_harm_reflex": true,
   "civilized_ai_mode": true,
